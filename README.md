@@ -1,4 +1,4 @@
-# NATURAL DISASTER TRACKER APP
+# NATURAL DISASTER TRACKING APP
 Do you want to check which part of the world is being affected by natural disasters or events? Different types of events such as wildfires, storms and icebergs can be tracked easily by using this app. 
 
 ## Screenshots
