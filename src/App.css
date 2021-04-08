@@ -1,0 +1,54 @@
+.wildfire{
+  color: red;
+  width: 20px;
+  height:20px;
+}
+.storm{
+  color: rgb(0, 153, 255);
+  width: 20px;
+  height:20px;
+}
+/*
+.volcano{
+  color: brown;
+  width: 20px;
+  height:20px;
+}
+*/
+.iceberg{
+  color: rgb(0, 153, 255);
+  width: 20px;
+  height:20px;
+}
+.search-form{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 60px;
+  background-color: gray;
+}
+.search-form label{
+  padding: 0.25em;
+  font-weight: bold;
+  font-size: 1em; 
+}
+.search-form select{
+   padding: 0.25em;
+   margin: 1em;
+   font-size: 1em; 
+}
+.search-form input{
+   padding: 0.25em;
+   margin: 1em;
+   width: 100px;
+   background-color: rgb(102, 172, 205);
+   border: none;
+   height: 40px;
+   font-weight: bold;
+   font-size: 1em; 
+}
+.marker-btn{
+  background: none;
+  border: none;
+  cursor: pointer;
+}
