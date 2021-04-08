@@ -2,9 +2,9 @@
 Do you want to check which part of the world is being affected by natural disasters or events? Different types of events such as wildfires, storms and icebergs can be tracked easily by using this app. 
 
 ## Screenshots
-!["Screenshot of wildfires"](https://github.com/tasneemh/weather-app/blob/master/screenshots/clouds.png?raw=true)
-!["Screenshot of storms"](https://github.com/tasneemh/weather-app/blob/master/screenshots/clear.png?raw=true)
-!["Screenshot of icebergs"](https://github.com/tasneemh/weather-app/blob/master/screenshots/snow.png?raw=true)
+!["Screenshot of wildfires"](https://github.com/tasneemh/natural-disasters-tracking-app/blob/master/src/images/wildfires.png?raw=true)
+!["Screenshot of storms"](https://github.com/tasneemh/natural-disasters-tracking-app/blob/master/src/images/storms.png?raw=true)
+!["Screenshot of icebergs"](https://github.com/tasneemh/natural-disasters-tracking-app/blob/master/src/images/icebergs.png?raw=true)
 
 # Dependencies
 - React
