@@ -11,6 +11,9 @@ Do you want to check which part of the world is being affected by natural disast
 - CSS
 - Node.js
 - Axios
+- Mapbox
+- React-map-gl
+- React-icons
 
 # Technology
 This is a single page application built using React, Node.js and Axios.
